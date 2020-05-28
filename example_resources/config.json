@@ -1,0 +1,5 @@
+{
+  "transformPairsLoadFile": "./transpair.yml",
+  "calibratedTransformFile": calibratedTransformFile,
+  "addSolverSummary": 1,
+}
