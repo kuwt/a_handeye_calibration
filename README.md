@@ -4,7 +4,7 @@ This repo serves as a ros independent build of handeye calibration. It main purp
 https://github.com/jhu-lcsr/handeye_calib_camodocal requires, which are not really needed when we do not use ROS.
 It only solves AX = XB and gives X, which should be the transformation from eye frame to robot flange frame.
 
-![Image description](./doc/wdOyg.png)
+![Image description](./doc/wdOyg.jpg)
 
 
 **Currently supported:**
