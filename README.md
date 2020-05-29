@@ -8,7 +8,7 @@ It only solves AX = XB and gives X, which should be the transformation from eye 
 
 
 **Currently supported:**
-1. windows
+1. windows vs2015
 
 **Dependencies**
 1. Opencv3 (tested on opencv 3.2.0)
