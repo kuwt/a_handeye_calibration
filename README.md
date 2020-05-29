@@ -15,8 +15,9 @@ It only solves AX = XB and gives X, which should be the transformation from eye 
 2. Eigen3
 3. ceres-solver
 
-**User Guide**
-1. Build the exe with the dependencies
-2. Input: transpair.yml; Explanation  T1: Robot pose or baseTee , T2:the transform from camera coordinate frame to AR code/chess board coordinate frame.
-3. Input: config.json; you can find an example in ./example_resource
-4. Output: eeTeye.yml, it is the transform from the eye frame to the robot flange frame
+**User Guide for windows**
+1. Put dependencies to ./handeye_calib/3rd_lib
+2. Build the exe with the dependencies
+3. Input: transpair.yml; Explanation  T1: Robot pose or baseTee , T2:the transform from camera coordinate frame to AR code/chess board coordinate frame.
+4. Input: config.json; you can find an example in ./example_resource
+5. Output: eeTeye.yml, it is the transform from the eye frame to the robot flange frame
