@@ -5,7 +5,7 @@ https://github.com/jhu-lcsr/handeye_calib_camodocal requires, which are not real
 It only solves AX = XB and gives X, which should be the transformation from eye frame to robot flange frame.
 
 ![Image description](./doc/wdOyg.jpg)
-
+Reference: https://github.com/jhu-lcsr/handeye_calib_camodocal
 
 **Currently supported:**
 1. windows vs2015
